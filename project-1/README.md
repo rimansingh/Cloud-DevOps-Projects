@@ -64,7 +64,7 @@ ansible-playbook -i inventory.yml playbook.yml
 ## Implementation Screenshots
 
 1. **Infrastructure Setup**
-   - [Terraform Instance Creation](./screenshots/01-terraform-instance-creation.png)
+   - [Terraform Instance Creation](screenshots/01-terraform-instance-creation.png)
    - [Ansible Node Connection](./screenshots/02-ansible-node-connection.png)
 
 2. **Configuration Management**
