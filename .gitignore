@@ -1,0 +1,18 @@
+
+.DS_Store
+
+# Terraform files
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Ansible files
+*.retry
+
+# OS files
+.DS_Store
+
+# Private keys and sensitive data
+*.pem
+*.key
